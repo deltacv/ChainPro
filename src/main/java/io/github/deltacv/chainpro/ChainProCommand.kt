@@ -1,4 +1,4 @@
-package io.deltacv.chainpro
+package io.github.deltacv.chainpro
 
 import org.bukkit.command.CommandExecutor
 import org.bukkit.command.CommandSender

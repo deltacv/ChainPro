@@ -1,6 +1,6 @@
 name: ChainPro
 version: '1.0-SNAPSHOT'
-main: io.deltacv.chainpro.ChainPro
+main: io.github.deltacv.chainpro.ChainPro
 api-version: '1.20'
 commands:
   chainpro:

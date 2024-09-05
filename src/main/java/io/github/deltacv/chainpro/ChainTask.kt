@@ -1,6 +1,6 @@
-package io.deltacv.chainpro
+package io.github.deltacv.chainpro
 
-import io.deltacv.chainpro.ChainPro.ChainedPlayer
+import io.github.deltacv.chainpro.ChainPro.ChainedPlayer
 import org.bukkit.Location
 import org.bukkit.entity.Player
 import org.bukkit.event.EventHandler
